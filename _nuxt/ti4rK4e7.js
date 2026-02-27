@@ -1,0 +1,1 @@
+import{_ as i}from"./2GH_sc6m.js";function t(c,e){c.accDescr&&e.setAccDescription?.(c.accDescr),c.accTitle&&e.setAccTitle?.(c.accTitle),c.title&&e.setDiagramTitle?.(c.title)}i(t,"populateCommonDb");export{t as p};

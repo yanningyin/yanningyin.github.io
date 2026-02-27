@@ -1,0 +1,63 @@
+{
+  "nodes": [
+    {
+      "id": "/home",
+      "title": "Home",
+      "path": "/home",
+      "tags": [],
+      "folder": "root"
+    },
+    {
+      "id": "/classical-physics/oscillation",
+      "title": "Oscillation",
+      "path": "/classical-physics/oscillation",
+      "tags": [],
+      "folder": "classical-physics"
+    },
+    {
+      "id": "/classical-physics/rotating-frame",
+      "title": "Rotating Frame",
+      "path": "/classical-physics/rotating-frame",
+      "tags": [],
+      "folder": "classical-physics"
+    },
+    {
+      "id": "/optics/notation-of-polarization",
+      "title": "Notation Of Polarization",
+      "path": "/optics/notation-of-polarization",
+      "tags": [],
+      "folder": "optics"
+    },
+    {
+      "id": "/classical-physics/attachments/driven_oscillation.png",
+      "title": "driven_oscillation.png",
+      "path": "/classical-physics/attachments/driven_oscillation.png",
+      "tags": [],
+      "folder": "classical-physics"
+    },
+    {
+      "id": "/drafts/attachments/rutherford_scattering.png",
+      "title": "Rutherford_scattering.png",
+      "path": "/drafts/attachments/rutherford_scattering.png",
+      "tags": [],
+      "folder": "drafts"
+    },
+    {
+      "id": "/optics/attachments/example_s_p_polarization.png",
+      "title": "example_s_p_polarization.png",
+      "path": "/optics/attachments/example_s_p_polarization.png",
+      "tags": [],
+      "folder": "optics"
+    }
+  ],
+  "edges": [
+    {
+      "source": "/classical-physics/oscillation",
+      "target": "/classical-physics/attachments/driven_oscillation.png"
+    },
+    {
+      "source": "/optics/notation-of-polarization",
+      "target": "/optics/attachments/example_s_p_polarization.png"
+    }
+  ]
+}
